@@ -1,3 +1,7 @@
+# data
+
+[The Simpsons by data](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
+
 # Setting up
 
 * Install [Annaconda](https://www.continuum.io/downloads)
