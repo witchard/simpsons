@@ -1,0 +1,4 @@
+data/*
+episodes_data/*
+.ipynb_checkpoints/
+simpson_data.txt
